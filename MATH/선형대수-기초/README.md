@@ -1,11 +1,6 @@
 ---
 description: 본 노트의 내용은  유데미 강의 수강 후 작성되었습니다.
-cover: ../../.gitbook/assets/인블로그썸네일.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -20,3 +15,4 @@ layout:
 
 # 선형대수-기초
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
