@@ -1,18 +1,2 @@
----
-description: 그러하다 수학이다
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# LLM 이론공부
 
-# 😇 MATH
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
