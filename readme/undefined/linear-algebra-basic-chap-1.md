@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/인블로그썸네일.png
-coverY: 0
----
-
 # 1. 선형대수란?
 
 ## 선형대수란?
