@@ -7,7 +7,8 @@
 * [FineTuning 실습코드](about-llm/finetuning/README.md)
   * [GPT Finetuning](https://colab.research.google.com/github/An-JIeun/studynotes/blob/main/codes/GPT%20Finetuning.ipynb)
   * [Korquad 데이터셋으로 GPT 파인튜닝 해보기](https://colab.research.google.com/github/An-JIeun/studynotes/blob/main/codes/koquard-data-refine.ipynb)
-* [Prompt Engineering](about-llm/prompt-engineering.md)
+* [Prompt Engineering](about-llm/prompt-engineering/README.md)
+  * [Chain Of Thought (COT)](about-llm/prompt-engineering/chain-of-thought-cot.md)
 
 ## Math
 
