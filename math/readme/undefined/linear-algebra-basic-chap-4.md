@@ -124,22 +124,22 @@ $$
 
 소행렬을 통한 계산을 위해선 소행렬과 여인수분해의 개념을 먼저 숙지해야 한다.
 
-<details><summary>소행렬 (minor determinant)</summary>
-소행렬이란, 특정 열과 행을 제거하고 만든 부분행렬에 대한 행렬식을 의미한다.
+    <details><summary>소행렬 (minor determinant)</summary>
+    소행렬이란, 특정 열과 행을 제거하고 만든 부분행렬에 대한 행렬식을 의미한다.
 
-$$
-M_{ij}
-$$
+    $$
+    M_{ij}
+    $$
 
-위 식은 i행, j열의 원소들을 제하고 남은 부분에 대한 행렬식을 의미한다. 그림으로 나타내면 다음과 같다.
+    위 식은 i행, j열의 원소들을 제하고 남은 부분에 대한 행렬식을 의미한다. 그림으로 나타내면 다음과 같다.
 
-![소행렬](../../../imgs/[linear-algebra-basic]4-3.png)
+    ![소행렬](../../../imgs/[linear-algebra-basic]4-3.png)
 
-</details>
+    </details>
 
-<details><summary>여인수(cofactor)와 여인수분해</summary>
+    <details><summary>여인수(cofactor)와 여인수분해</summary>
 
-</details>
+    </details>
 
 </details>
 
