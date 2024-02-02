@@ -163,7 +163,17 @@ $$
 C = Confactor
 \newline
 \newline
-C = (-1)^{(i,j)}A_{i,j}
+C = (-1)^{(i+j)}A_{i,j}
 $$
+
+$$
+\begin{bmatrix} 
+   1 & 2 & 5 \\
+   0 & 0 & 0 \\
+   2 & 5 & 7 \\
+\end{bmatrix}
+$$
+
+
 
 ## 직교형렬
