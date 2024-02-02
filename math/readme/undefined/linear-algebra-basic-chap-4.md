@@ -104,11 +104,14 @@ $$
 \end{bmatrix}
 $$
 
-이 상태에서 
+이 상태에서 다음 연산을 진행해준다.  
+![3X3 행렬식 1](../../../imgs/[linear-algebra-basic]4-5.png)
 
+그 다음엔 반대로 구한다.
+![3X3 행렬식 2](../../../imgs/[linear-algebra-basic]4-6.png)
 
-
-
+마지막으로 앞서 구한 두 값을 뺀다.
+![3X3 행렬식 3](../../../imgs/[linear-algebra-basic]4-7.png)
 ### 소행렬 (minor determinant)
 
 소행렬이란, 특정 열과 행을 제거하고 만든 부분행렬에 대한 행렬식을 의미한다.
