@@ -143,12 +143,12 @@ $$
 3X3 행렬에서 여인수 행을 1행으로 했을 때, 여인수전개한 행렬식은 다음 그림과 같다.
 
 
-<img src="../../../imgs/[linear-algebra-basic]4-8.png" alt="여인수전개" width="600px">
+<img src="../../../imgs/[linear-algebra-basic]4-10.png" alt="여인수전개" width="600px">
 
 
 이를 일반화 하면 다음과 같다. 3X3 정방행렬보다 차원수가 커져도 동일하게 적용할 수 있다.
 
-<img src="../../../imgs/[linear-algebra-basic]4-9.png" alt="여인수전개 일반화" width="600px">
+<img src="../../../imgs/[linear-algebra-basic]4-11.png" alt="여인수전개 일반화" width="600px">
 
 
 </details>
