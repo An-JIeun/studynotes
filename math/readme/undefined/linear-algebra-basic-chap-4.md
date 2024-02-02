@@ -84,7 +84,9 @@ $$
 
 2X2 정방행렬에서의 행렬식 연산은 간단하다. 대각선을 이루는 원소들끼리 곱하고, 이들을 더하기만 하면 된다.
 
-3X3 정방행렬에서의 행렬식 연산은 좀 복잡하다. 
+3X3 정방행렬에서의 행렬식 연산은 좀 복잡하다. 두 가지 방법으로 구해볼 수 있다.
+
+<details><summary>1. 크로머 전개로 구하기</summary>
 
 $$
 \begin{bmatrix} 
@@ -105,13 +107,22 @@ $$
 $$
 
 이 상태에서 다음 연산을 진행해준다.  
+
 ![3X3 행렬식 1](../../../imgs/[linear-algebra-basic]4-5.png)
 
 그 다음엔 반대로 구한다.
+
 ![3X3 행렬식 2](../../../imgs/[linear-algebra-basic]4-6.png)
 
 마지막으로 앞서 구한 두 값을 뺀다.
+
 ![3X3 행렬식 3](../../../imgs/[linear-algebra-basic]4-7.png)
+
+</details>
+
+<details><summary>2. 소행렬 활용</summary>
+
+</details>
 ### 소행렬 (minor determinant)
 
 소행렬이란, 특정 열과 행을 제거하고 만든 부분행렬에 대한 행렬식을 의미한다.
