@@ -1,2 +1,4 @@
 .env
+*.tsv
+*.csv
 KorQuAD_v1.0_dev.json

@@ -1,0 +1,9 @@
+openai
+scipy
+transformers 
+plotly
+scikit-learn 
+torch 
+torchvision 
+scipy 
+tiktoken
