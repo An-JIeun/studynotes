@@ -75,10 +75,10 @@ $$
 
 $$
 det
-\begin{pmatrix} 
+\begin{bmatrix} 
    a & b  \\
    c & d  \\
-\end{pmatrix} 
+\end{bmatrix} 
 =ad-bc
 $$
 
@@ -87,21 +87,21 @@ $$
 3X3 정방행렬에서의 행렬식 연산은 좀 복잡하다. 
 
 $$
-\begin{pmatrix} 
+\begin{bmatrix} 
    a & b & c \\
    d & e & f \\
    g & h & i \\
-\end{pmatrix}
+\end{bmatrix}
 $$
 
 이 행렬에서 3열을 제외한 1,2열을 3열의 다음에 붙여준다
 
 $$
-\begin{pmatrix} 
+\begin{bmatrix} 
    a & b & c & a & b\\
    d & e & f & d & e\\
    g & h & i & g & h\\
-\end{pmatrix}
+\end{bmatrix}
 $$
 
 이 상태에서 
