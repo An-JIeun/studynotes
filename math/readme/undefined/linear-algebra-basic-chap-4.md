@@ -70,7 +70,12 @@ $$
 2X2 정방행렬에서의 행렬식은 다음과 같다
 
 $$
-det[^{a\space b}_{c\space d}]= ad-bc
+det
+\begin{Vmatrix} 
+   a & b  \\
+   c & d  \\
+\end{Vmatrix} 
+=ad-bc
 $$
 
 
