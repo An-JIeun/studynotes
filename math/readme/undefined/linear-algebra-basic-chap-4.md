@@ -122,9 +122,9 @@ $$
 
 <details><summary>2. 소행렬 활용</summary>
 
-</details>
-### 소행렬 (minor determinant)
+소행렬을 통한 계산을 위해선 소행렬과 여인수분해의 개념을 먼저 숙지해야 한다.
 
+<details><summary>소행렬 (minor determinant)</summary>
 소행렬이란, 특정 열과 행을 제거하고 만든 부분행렬에 대한 행렬식을 의미한다.
 
 $$
@@ -135,7 +135,14 @@ $$
 
 ![소행렬](../../../imgs/[linear-algebra-basic]4-3.png)
 
-### 여인수행렬
+</details>
+
+<details><summary>여인수(cofactor)와 여인수분해</summary>
+
+</details>
+
+</details>
+
 
 역행렬의 중요 성질은 다음과 같다.
 
