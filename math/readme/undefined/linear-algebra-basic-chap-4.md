@@ -180,3 +180,10 @@ v^Tv = ||v||
 $$
 
 직교행렬과 직교행렬의 곱은 직교행렬이다. 이는 직교행렬이 각도와 길이, 내적을 보존하는 행렬이기 때문이다.
+
+## Ref
+
+[[선형대수학] Determinant / 행렬식](https://m.blog.naver.com/lagrange0115/222087882248)
+[행렬의 성분, 두 행렬이 서로 같을 조건](https://mathbang.net/558#gsc.tab=0)
+[행렬식 이 영상만 보면 기본 끝! | 행렬식의 성질 | 기본행연산과 행렬식](https://www.youtube.com/watch?v=fuVMiyahzH4)
+[orthogonal matrix(직교행렬) 과 matrix of orthonormal columns](https://velog.io/@skkumin/orthogonal-matrix%EC%A7%81%EA%B5%90%ED%96%89%EB%A0%AC-%EA%B3%BC-matrix-of-orthonormal-columns)
