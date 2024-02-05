@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🙌 Welcome!](README.md)
+
 ## About LLM
 
-* [LLM 이론공부](README.md)
+* [LLM 이론공부](<README (1).md>)
 * [Langchain](about-llm/langchain.md)
 * [FineTuning 실습코드](about-llm/finetuning/README.md)
   * [GPT Finetuning](https://colab.research.google.com/github/An-JIeun/studynotes/blob/main/codes/GPT%20Finetuning.ipynb)
