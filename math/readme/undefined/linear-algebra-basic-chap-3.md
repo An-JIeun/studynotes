@@ -153,7 +153,7 @@ $$
 
 *   **정사영 공식 유도**
 
-    ![정사영유도.jpg](../../../imgs/[linear-algebra-basic]3-1.png)
+    ![정사영유도.jpg](../../../imgs/[linear-algebra-basic]3-1.jpg)
 
 $$\theta$$값 없이 정사영을 구하는 공식은 다음과 같다.
 
