@@ -169,15 +169,12 @@ $$
 $$
 ||Qv|| = ||v||
 $$
-
 $$
 ||Qv|| = (Qv)^TQV
 $$
-
 $$
-v^TQ^TQT = v^TIv
+v^TQ^TQv = v^TIv
 $$
-
 $$
 v^Tv = ||v||
 $$
