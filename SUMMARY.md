@@ -24,5 +24,5 @@
 ## Knowledge Graph
 
 * [지식그래프 101](knowledge-graph/knowledge-graph-101/READNE.md)
-  * [Chapter-1 지식그래프?](knowledge-graph/knowledge-graph-101/chap1.md)
+  * [Chapter-1. 지식그래프?](knowledge-graph/knowledge-graph-101/chap1.md)
 * [Neo4j 써보기](knowledge-graph/neo4j.md)
