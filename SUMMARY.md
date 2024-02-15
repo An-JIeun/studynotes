@@ -21,7 +21,7 @@
     * [3. 텐서 연산](math/readme/undefined/linear-algebra-basic-chap-3.md)
     * [4. 행렬 성질](math/readme/undefined/linear-algebra-basic-chap-4.md)
   * [⛹♂ 선형대수-응용](math/readme/undefined-1/README.md)
-    * [1. 고유값과 고유벡터](math/readme/undefined-1/lin-int-chap-1.md)
+    * [1. 고유값과 고유벡터](math/readme/undefined-1/1..md)
 
 ## Knowledge Graph
 
