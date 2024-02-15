@@ -22,10 +22,10 @@
     * [4. 행렬 성질](math/readme/undefined/linear-algebra-basic-chap-4.md)
   * [선형대수-응용](math/선형대수-응용/README.md)
     * [1. 고유값과 고유값 분해](math/선형대수-응용/[linear-algebra-intermediate]chap-1.md)
-    *
+    
 
 ## Knowledge Graph
 
-* [지식그래프 101](knowledge-graph/knowledge-graph-101/READNE.md)
+* [지식그래프 101](knowledge-graph/knowledge-graph-101/README.md)
   * [Chapter-1. 지식그래프?](knowledge-graph/knowledge-graph-101/chap1.md)
 * [Neo4j 써보기](knowledge-graph/neo4j.md)
