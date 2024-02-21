@@ -22,7 +22,7 @@
     * [4. 행렬 성질](math/readme/undefined/linear-algebra-basic-chap-4.md)
   * [⛹♂ 선형대수-응용](math/readme/undefined-1/README.md)
     * [1. 고유값과 고유벡터](math/readme/undefined-1/1..md)
-    * [2. 특이값과 특이값분해](math/readme/undefined-1/lin-alg-int-chap-2.md)
+    * [2. 특이값과 특이값분해](math/intermediate/lin-alg-int-chap-2.md)
 
 ## Knowledge Graph
 
