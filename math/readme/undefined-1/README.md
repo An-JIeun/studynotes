@@ -1,5 +1,16 @@
 ---
-description: 고유값부터 PCA, LDA 까지
+description: 본 노트의 내용은  유데미 강의 수강 후 작성되었습니다.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ⛹♂ 선형대수-응용
