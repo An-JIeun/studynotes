@@ -65,4 +65,6 @@ $$\Sigma \Sigma^T$$는 U의 차원수와 동일한 크기를 갖는 고유값의
 
 반대로 $$\Sigma^T\Sigma$$는 V^T와 동일한 크기를 갖는 고유값의 정방행렬을 갖는다.
 
+$$\Sigma$$는 고유값 $$\sigma$$를 갖는 벡터이므로, $$\Sigma^T\Sigma, \Sigma\Sigma^T$$의 대각성분은 $$\sigma_n$$의 제곱이다.
+
 
