@@ -13,8 +13,9 @@ layout:
     visible: true
 ---
 
-# ⛹♂ 선형대수-응용
+# ⛹️‍♂️ 선형대수-응용
 
 ## 추가 자료
-- 
-- 
+
+* [DeepLearning Book (Ian Goodfellow)](https://www.deeplearningbook.org/)
+*
