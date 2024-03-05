@@ -20,7 +20,7 @@
     * [2. 벡터, 행렬 기본개념](math/readme/undefined/linear-algebra-basic-chap-2.md)
     * [3. 텐서 연산](math/readme/undefined/linear-algebra-basic-chap-3.md)
     * [4. 행렬 성질](math/readme/undefined/linear-algebra-basic-chap-4.md)
-  * [⛹♂ 선형대수-응용](math/readme/undefined-1/README.md)
+  * [⛹️‍♂️ 선형대수-응용](math/readme/undefined-1/README.md)
     * [1. 고유값과 고유벡터](math/readme/undefined-1/1..md)
     * [2. 특이값과 특이값 분해](math/readme/undefined-1/2..md)
     * [3. PCA](math/readme/undefined-1/3.-pca.md)
@@ -28,6 +28,6 @@
 ## Knowledge Graph
 
 * [지식그래프 101](knowledge-graph/knowledge-graph-101/README.md)
-  * [Intro: Udemy knowledge graph 101 정리](knowledge-graph/udemy-kg101/kg101_summary.md)
+  * [Intro: Udemy knowledge graph 101 정리](knowledge-graph/udemy-kg101/kg101\_summary.md)
   * [Chapter-1. 지식그래프?](knowledge-graph/knowledge-graph-101/chap1.md)
 * [Neo4j 써보기](knowledge-graph/neo4j.md)
