@@ -24,6 +24,8 @@
     * [1. 고유값과 고유벡터](math/readme/undefined-1/1..md)
     * [2. 특이값과 특이값 분해](math/readme/undefined-1/2..md)
     * [3. PCA](math/readme/undefined-1/3.-pca.md)
+* [😊 Calculus](math/calculus/README.md)
+  * [1. 극한](math/calculus/1..md)
 
 ## Knowledge Graph
 
