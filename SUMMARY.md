@@ -26,7 +26,8 @@
     * [3. PCA](math/readme/undefined-1/3.-pca.md)
 * [😊 Calculus](math/calculus/README.md)
   * [1. 극한](math/calculus/1..md)
-* [🦾 Automatic Differentiation (자동미분)](math/automatic-differentiation.md)
+* [🦾 Automatic Differentiation (자동미분)](math/automatic-differentiation/README.md)
+  * [파이썬 라이브러리를 활용한 자동미분 코드 실습](https://app.gitbook.com/o/MNZUtW41uGgjZTXW6O0M/s/x6Rjxltth7OK3z5lu3Kv/\~/changes/31/math/page)
 
 ## Knowledge Graph
 

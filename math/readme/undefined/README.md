@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 선형대수-기초
+# 🌱 선형대수-기초
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
