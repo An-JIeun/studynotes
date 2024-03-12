@@ -26,6 +26,7 @@
     * [3. PCA](math/readme/undefined-1/3.-pca.md)
 * [😊 Calculus](math/calculus/README.md)
   * [1. 극한](math/calculus/1..md)
+* [🦾 Automatic Differentiation (자동미분)](math/automatic-differentiation.md)
 
 ## Knowledge Graph
 
