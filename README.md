@@ -7,3 +7,6 @@
 ***
 
 ## Profile
+
+<figure><img src=".gitbook/assets/profile.png" alt=""><figcaption></figcaption></figure>
+
