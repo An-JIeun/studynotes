@@ -9,13 +9,4 @@
 ## Profile
 
 <figure><img src=".gitbook/assets/profile.png" alt=""><figcaption></figcaption></figure>
-<div class='rounded'>둥근 모서리 테두리</div>
-<style>
-.rounded {
-  width: 200px;
-  background-color: #ffffff ;
-  border: 2px solid #f0f0f0f0;
-  padding: 0.5rem;
-  line-height: 1rem;
-}
-</style>
+
