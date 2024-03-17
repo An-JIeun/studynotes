@@ -34,4 +34,5 @@
 * [지식그래프 101](knowledge-graph/knowledge-graph-101/README.md)
   * [Intro: Udemy knowledge graph 101 정리](knowledge-graph/udemy-kg101/kg101\_summary.md)
   * [Chapter-1. 지식그래프?](knowledge-graph/knowledge-graph-101/chap1.md)
+  * [Ontology 101](knowledge-graph/ontology-101/[ontology101]1-ontology.md)
 * [Neo4j 써보기](knowledge-graph/neo4j.md)
