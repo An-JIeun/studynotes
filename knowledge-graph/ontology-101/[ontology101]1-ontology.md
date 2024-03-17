@@ -1,6 +1,5 @@
 <head>
 <!-- Google tag (gtag.js) -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VYQYCC9ZZS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,7 +9,7 @@
   gtag('config', 'G-VYQYCC9ZZS');
 </script>
 </head>
-
+<body>
 
 ## 온톨로지의 설계 과정
 
@@ -62,3 +61,5 @@ RDF는 각기 다른 도메인에서 정의되는 동의어를 의미를 분명�
 
 RDFS는 특정 메타데이터에서 정의하고 있는 어휘들을 선언하기 위해 사용된다. 즉, 어떤 도메인에서 표준적으로 활용하기 위해 도메인에 적합하도록 사용어휘나 표현 규칙을 체계화하여 RDF를 표현형식대로 자료를 기술하는 어휘 체계를 의미한다. RDFS의 일종인 OWL은, 웹 자원에 대한 메타 정보를 온톨로지 형태로 표준화하여 기술하도록 하는 어휘 체계라고 할 수 있다.
 </details>
+
+</body>
