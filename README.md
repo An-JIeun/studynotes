@@ -13,8 +13,8 @@
 <style>
 .rounded {
   width: 200px;
-  background-color: #bdf;
-  border: 2px solid #1bf;
+  background-color: #ffffff ;
+  border: 2px solid #f0f0f0f0;
   padding: 0.5rem;
   line-height: 1rem;
 }
