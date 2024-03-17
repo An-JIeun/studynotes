@@ -1,4 +1,4 @@
-# OWL (Web Ontology Language)
+# 1. About XML, RDF, RDF and Ontology
 
 ---
 ## 온톨로지의 설계 과정
