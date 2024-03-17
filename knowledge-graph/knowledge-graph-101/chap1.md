@@ -1,4 +1,6 @@
+<head>
 <!-- Google tag (gtag.js) -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VYQYCC9ZZS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -7,6 +9,7 @@
 
   gtag('config', 'G-VYQYCC9ZZS');
 </script>
+</head>
 
 # Intro
 
